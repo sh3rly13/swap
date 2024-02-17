@@ -1,0 +1,27 @@
+{
+  "canisters": {
+    "swap_backend": {
+      "candid": "src/swap_backend/swap_backend.did",
+      "package": "swap_backend",
+      "type": "rust"
+    },
+    "swap_frontend": {
+      "dependencies": [
+        "swap_backend"
+      ],
+      "source": [
+        "src/swap_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "swap_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}

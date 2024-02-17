@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/swap_backend"
+]
+resolver = "2"

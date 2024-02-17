@@ -5,8 +5,8 @@
 > [Rise in](https://www.risein.com/) işbirliğiyle birlikte ***Internet Computer Rust Workshop*** etkinliğinde anlatılan ders için hazırlanmıştır. 
 
 ## Saat 16:00 da başlanan bu program 17:50 de bitmiştir.
- 
-![res](src/motoko_tutorial_frontend/public/logo2.svg)
+
+![res](src/swap_frontend/assets/favicon.ico)
 
 
 Welcome to your new swap project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
